@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "crud-react-1-client-side-solution",
+    "id": "8089dbcf-4374-4fe8-b02e-416d507b29b6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "crud-react-1 description"
+      },
+      "longDescription": {
+        "default": "crud-react-1 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "crud-react-1 Feature",
+        "description": "The feature that activates elements of the crud-react-1 solution.",
+        "id": "3c6ded1c-083e-4b5e-bed5-8d08ce3dedb0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/crud-react-1.sppkg"
+  }
+}
